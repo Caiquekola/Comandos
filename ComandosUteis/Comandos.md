@@ -31,4 +31,12 @@ Obter clone HTTPS/SSH
 git Clone git clone <https://url-do-link>  
 git push origin main
 
+echo "# Comandos" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Caiquekola/NomeDoArquivo.git
+git push -u origin main
+
 
