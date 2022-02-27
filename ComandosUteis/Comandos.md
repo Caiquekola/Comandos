@@ -1,0 +1,34 @@
+## Windows CMD / Unix 
+
+### - cd:   
+* Significa change directory. Serve para navegar entre as pastas.
+
+### - dir  
+* Diretórios, serve para listar os diretórios em uma pasta.
+### - ls (Unix)
+* Significa directories, serve para listar os diretórios em uma pasta.
+
+### - mkdir  
+* Criar pasta
+
+### - del/ rmdir (Windows)
+* del, deleta somento o que tem dentro da pasta.   
+* "rmdir /S /Q" deletará tudo e a pasta.
+### - rm (Unix)
+* Deletar pasta e conteúdo. "rm -rf"
+### - Echo
+* Exibe uma mensagem. Com o símbolo de > (maior que), ele cria um arquivo. Exemplo Echo > Hello.txt  
+
+## Novo Repositório
+
+Passos para criar um repositório no GitBash
+
+git init   
+git add *  
+git commit -m ""  
+git status    
+Obter clone HTTPS/SSH  
+git Clone git clone <https://url-do-link>  
+git push origin main
+
+
