@@ -18,7 +18,9 @@
 * Deletar pasta e conteúdo. "rm -rf"
 ### - Echo
 * Exibe uma mensagem. Com o símbolo de > (maior que), ele cria um arquivo. Exemplo Echo > Hello.txt  
-
+### - code . 
+* Abre o VS Code.
+### dotnet build/restore
 ## Novo Repositório
 
 Passos para criar um repositório no GitBash
