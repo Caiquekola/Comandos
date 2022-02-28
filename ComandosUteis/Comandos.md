@@ -20,7 +20,7 @@
 * Exibe uma mensagem. Com o símbolo de > (maior que), ele cria um arquivo. Exemplo Echo > Hello.txt  
 ### - code . 
 * Abre o VS Code.
-### dotnet build/restore
+### dotnet build/restore/run
 ## Novo Repositório
 
 Passos para criar um repositório no GitBash
